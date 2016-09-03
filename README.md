@@ -73,4 +73,4 @@ var x: number = add(3, '0'); // ERROR!
 
 * [flowtype docs](https://flowtype.org/docs/getting-started.html#_)
 * [javaScript Air Episode 038: Typed JavaScript with TypeScript and Flow](https://www.youtube.com/watch?v=Qiqsg02nXFE)
-* 
+* [flow talk by Jeff Morrison](https://www.youtube.com/watch?v=9U4_hlnaFEE)
